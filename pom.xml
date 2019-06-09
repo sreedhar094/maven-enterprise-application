@@ -14,11 +14,11 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://13.232.238.67:9000/</sonar.host.url>
+	/*<sonar.host.url>http://13.232.238.67:9000/</sonar.host.url>*/
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
-	
+/*	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
@@ -31,5 +31,5 @@
 	      <url>http://52.66.245.87:8081/repository/sree-maven-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
-  
+  */
 </project>
